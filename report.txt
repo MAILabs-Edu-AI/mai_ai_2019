@@ -1,0 +1,8 @@
+Датасет 1:
+Коллекция смс-спама
+https://www.kaggle.com/uciml/sms-spam-collection-dataset
+
+
+Датасет 2:
+История акций компании Blackrock с мосента выхода на биржу
+https://www.kaggle.com/qks1lver/nasdaq-and-nyse-stocks-histories
