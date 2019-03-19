@@ -1,7 +1,5 @@
 import matplotlib.pyplot as plt, numpy as np
 from pandas import read_csv
-from sklearn import linear_model
-from itertools import combinations
 from statistics import mode
 
 
