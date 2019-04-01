@@ -3,10 +3,8 @@ from pandas import read_csv
 from statistics import mode
 
 
-#file = read_csv('BLK.csv')
 file = read_csv('BLK2.csv')
 
-#title = ['volume', 'open', 'high', 'low', 'adjclose']
 title = ['open','high','low','adjclose','volume']
 
 
