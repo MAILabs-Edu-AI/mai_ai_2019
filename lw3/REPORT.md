@@ -35,7 +35,7 @@
  
  
 Приведите графические иллюстрации:
-![1](https://github.com/MAILabs-Edu-AI/lab-expert-system-privet/blob/master/img/граф.PNG)
+![1](https://github.com/israelcode/mai_ai_2019/blob/master/lw3/img/%D0%B3%D1%80%D0%B0%D1%84.PNG)
 
 
 ## Принцип реализации системы
@@ -85,11 +85,11 @@ parse(NextIndex, Rest, Response).
 ## Протокол работы системы
 
 Приведите несколько примеров работы системы, проиллюстрируйте их фрагментами деревьев вывода.
-![1](https://github.com/MAILabs-Edu-AI/lab-expert-system-privet/blob/master/img/test1.PNG)
+![1](https://github.com/israelcode/mai_ai_2019/blob/master/lw3/img/test1.PNG)
 
-![2](https://github.com/MAILabs-Edu-AI/lab-expert-system-privet/blob/master/img/test2.PNG)
+![2](https://github.com/israelcode/mai_ai_2019/blob/master/lw3/img/test2.PNG)
 
-![3](https://github.com/MAILabs-Edu-AI/lab-expert-system-privet/blob/master/img/test3.PNG)
+![3](https://github.com/israelcode/mai_ai_2019/blob/master/lw3/img/test3.PNG)
 
 ## Выводы
 
