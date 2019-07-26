@@ -35,10 +35,10 @@
 ## Подготовка данных
 
 Первая часть данных(обработанная). 100 галочек и 100 крестиков:
-![1](https://github.com/MAILabs-Edu-AI/lab-neural-networks-vision-___tanki-online1968___/blob/master/lab-work/xv1.jpg)
+![1](https://github.com/israelcode/mai_ai_2019/blob/master/lw4/lab-work/xv1.jpg)
 
 Вторая часть данных(обработанная). 100 галочек и 100 крестиков:
-![2](https://github.com/MAILabs-Edu-AI/lab-neural-networks-vision-___tanki-online1968___/blob/master/lab-work/xv2.jpg)
+![2](https://github.com/israelcode/mai_ai_2019/blob/master/lw4/lab-work/xv2.jpg)
 
 
 Подготовка датасета заняла довольно большое время. Для начала от руки были написаны все данные(200 символов - галочек и 200 символов - крестиков), поровну на каждого участника группы. Далее фотографии этих данных были обработаны в Microsoft Office Lens в режиме "доска". После это с помощью python и open-cv фотографии были разрезаны на маленькие фрагменты, каждый из которых содержал только один символ. Размер кажого получившегося фрагмента = 95х95. Большой сложности подготовка данных не вызвала. Единственное, что можно отметить - это то, что сначала по невнимательности мы сделали фрагменты разных размеров.
@@ -90,7 +90,7 @@
         count_h+=1
 
 
-[Ссылка на получившийся датасет](https://github.com/MAILabs-Edu-AI/lab-neural-networks-vision-___tanki-online1968___/tree/master/lab-work/data)
+[Ссылка на получившийся датасет](https://github.com/israelcode/mai_ai_2019/tree/master/lw4/lab-work/data)
 
 ## Загрузка данных
     DATADIR = "/home/n/data"
